@@ -72,8 +72,7 @@ p {
     margin-left: 20px;
 }
 
-
-benefits {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -84,20 +83,11 @@ benefits {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lead,.benefit-cost,.benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
 
 
