@@ -6,4 +6,3 @@ Cleaned up the style.css sheet by grouping like stylings together and consolidat
 
 ![Homework1 Website](<assets/images/Homework1 Refactor.jpg>)
 
-[Homework1 Page] file:///C:/Users/Rob/Documents/UCF/In-Class/Week1/Homework1/Homework1/index.html
